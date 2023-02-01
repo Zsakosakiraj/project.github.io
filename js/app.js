@@ -250,3 +250,9 @@ function indexOfOne(str, chars, isLast = false) {
 		})[0];
 	} else return null;
 }
+
+
+
+
+
+fsesetsegsgsseset
